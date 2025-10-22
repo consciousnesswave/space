@@ -13,7 +13,7 @@ export default function Home() {
       </Head>
 
       <main className={styles.main}>
-        <h1 className={styles.title}>Test</h1>
+        <h1 className={styles.title}>Test1</h1>
         <p className={styles.description}>
           This is a minimal Next.js (JavaScript) app — placed at repository
           root.
