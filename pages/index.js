@@ -5,7 +5,7 @@ export default function Home() {
   return (
     <div className={styles.container}>
       <Head>
-        <title>Space Next.js App</title>
+        <title>Test</title>
         <meta
           name="description"
           content="Minimal Next.js app in current directory"
@@ -13,7 +13,7 @@ export default function Home() {
       </Head>
 
       <main className={styles.main}>
-        <h1 className={styles.title}>Welcome to Space</h1>
+        <h1 className={styles.title}>Test</h1>
         <p className={styles.description}>
           This is a minimal Next.js (JavaScript) app — placed at repository
           root.
